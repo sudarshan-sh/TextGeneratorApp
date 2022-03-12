@@ -8,9 +8,7 @@ Basic React app that generates the number of paragraphs of random text.
 
 ## Functional
 
-*   In this application, each paragraph of random text would be generated based on the number selected.
-
-*   User won't able to see paragraph of text beyond number 8 and for less than equal to zero, it will generate only one paragraph.
+In this application, each paragraph of random text would be generated based on the number selected.
 
 ## Technical
 
